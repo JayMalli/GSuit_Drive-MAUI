@@ -13,8 +13,8 @@
 - visual studio code / visual studio
 
 - Nuget Packages
-  => [Newtonsoft](https://www.nuget.org/packages/Newtonsoft.Json)
-  => [Google.Apis](https://www.nuget.org/packages/Google.Apis)
-  => [Google.Apis.Auth](https://www.nuget.org/packages/Google.Apis.Auth)
-  => [Google.Apis.Drive.v3](https://www.nuget.org/packages/Google.Apis.Drive.v3)
-  => [Google.Apis](https://www.nuget.org/packages/Google.Apis)
+  => [Newtonsoft](https://www.nuget.org/packages/Newtonsoft.Json) <br/>
+  => [Google.Apis](https://www.nuget.org/packages/Google.Apis) <br/>
+  => [Google.Apis.Auth](https://www.nuget.org/packages/Google.Apis.Auth) <br/>
+  => [Google.Apis.Drive.v3](https://www.nuget.org/packages/Google.Apis.Drive.v3) <br/>
+  => [Google.Apis](https://www.nuget.org/packages/Google.Apis) <br/>
