@@ -12,7 +12,7 @@
 - dotnet 7.0 SDK
 - visual studio code / visual studio
 
-- Nuget Packages
+- Nuget Packages <br/>
   => [Newtonsoft](https://www.nuget.org/packages/Newtonsoft.Json) <br/>
   => [Google.Apis](https://www.nuget.org/packages/Google.Apis) <br/>
   => [Google.Apis.Auth](https://www.nuget.org/packages/Google.Apis.Auth) <br/>
